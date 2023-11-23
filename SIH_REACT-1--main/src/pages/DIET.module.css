@@ -1,0 +1,281 @@
+.healthCoach {
+  position: absolute;
+  top: calc(50% - 28px);
+  left: calc(50% - 677px);
+  display: inline-block;
+  width: 627px;
+  height: 105px;
+}
+.healthCoachWrapper {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 114px;
+  overflow: hidden;
+  font-size: var(--font-size-43xl);
+  font-family: var(--font-georgia);
+}
+.dietPlans,
+.frame {
+  position: absolute;
+  height: 66px;
+}
+.dietPlans {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 382px;
+}
+.frame {
+  top: 165px;
+  left: 43px;
+  width: 1354px;
+  overflow: hidden;
+  font-size: var(--font-size-43xl);
+  font-family: var(--font-georgia);
+}
+.frame1,
+.image3Icon {
+  position: absolute;
+  height: 590px;
+}
+.image3Icon {
+  top: 0;
+  left: calc(50% - 374px);
+  border-radius: 35px;
+  width: 701px;
+  object-fit: cover;
+}
+.frame1 {
+  top: 308px;
+  left: 346px;
+  width: 748px;
+  overflow: hidden;
+}
+.frame2,
+.recommendedDietFor {
+  position: absolute;
+  height: 50px;
+}
+.recommendedDietFor {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 930px;
+}
+.frame2 {
+  top: 2063px;
+  left: 104px;
+  width: 1232px;
+  overflow: hidden;
+  font-family: var(--font-times-new-roman);
+}
+.image5Icon,
+.image6Icon,
+.image7Icon,
+.image8Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 581px;
+  height: 431px;
+  object-fit: cover;
+}
+.image6Icon,
+.image7Icon,
+.image8Icon {
+  left: 630px;
+  width: 577px;
+}
+.image7Icon,
+.image8Icon {
+  top: 467px;
+  left: 0;
+  width: 581px;
+  height: 420px;
+}
+.image8Icon {
+  left: 630px;
+  width: 577px;
+}
+.image10Icon,
+.image11Icon,
+.image12Icon,
+.image9Icon {
+  position: absolute;
+  top: 923px;
+  left: 0;
+  width: 581px;
+  height: 422px;
+  object-fit: cover;
+}
+.image10Icon,
+.image11Icon,
+.image12Icon {
+  left: 630px;
+  width: 577px;
+  height: 428px;
+}
+.image11Icon,
+.image12Icon {
+  top: 1381px;
+  left: 0;
+  width: 581px;
+  height: 433px;
+}
+.image12Icon {
+  left: 630px;
+  width: 577px;
+}
+.childrensAndTeenagers,
+.frame3 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 1207px;
+  height: 1814px;
+}
+.frame3 {
+  top: 2149px;
+  left: 116px;
+  width: 1208px;
+  overflow: hidden;
+}
+.your20SomethingMeal {
+  font-size: var(--font-size-21xl);
+}
+.your20SomethingMealPlan {
+  margin: 0;
+}
+.oneOfThese {
+  text-decoration: underline;
+}
+.oneOfTheseHealthySmoothies {
+  color: inherit;
+}
+.morningSnack1PacketInstan {
+  margin-bottom: 0;
+}
+.breakfast24OunceJambaJuic {
+  margin: 0;
+  padding-left: var(--padding-21xl);
+}
+.nutritionInfoFor {
+  font-size: var(--font-size-16xl);
+}
+.calories100gProtein {
+  font-size: var(--font-size-11xl);
+}
+.your20SomethingMealContainer {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 603px);
+  display: inline-block;
+  width: 1224px;
+  height: 476px;
+}
+.frame4 {
+  position: absolute;
+  top: 4032px;
+  left: 99px;
+  width: 1242px;
+  height: 476px;
+  overflow: hidden;
+  color: var(--font-inherit);
+}
+.blankLine2 {
+  font-size: var(--font-size-xl);
+}
+.whatPreciselyIs {
+  font-size: var(--font-size-6xl);
+}
+.vegetablesLikeLeafyGreens {
+  margin: 0;
+  padding-left: 33px;
+}
+.whatIsAContainer {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 629.5px);
+  display: inline-block;
+  width: 1259px;
+  height: 1085px;
+}
+.image4Icon {
+  position: absolute;
+  top: 402px;
+  left: calc(50% - 269.5px);
+  border-radius: 33px;
+  width: 540px;
+  height: 350px;
+  object-fit: cover;
+}
+.frame5,
+.frame6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1259px;
+  height: 1085px;
+  overflow: hidden;
+}
+.frame5 {
+  top: 942px;
+  left: 90px;
+  width: 1260px;
+  font-size: var(--font-size-6xl);
+  color: var(--font-inherit);
+}
+.your30SomethingHealthy {
+  margin: 0;
+  font-size: var(--font-size-21xl);
+}
+.your30SomethingHealthyContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 1224px;
+  height: 555px;
+}
+.hummus {
+  color: var(--font-inherit);
+}
+.your40SomethingHealthyContainer {
+  position: absolute;
+  top: 528px;
+  left: 0;
+  display: inline-block;
+  width: 1224px;
+  height: 551px;
+}
+.frame8 {
+  position: absolute;
+  top: 0;
+  left: 18px;
+  width: 1224px;
+  height: 1079px;
+}
+.diet,
+.frame7,
+.frame8 {
+  overflow: hidden;
+}
+.frame7 {
+  position: absolute;
+  top: 4541px;
+  left: 99px;
+  width: 1242px;
+  height: 1079px;
+}
+.diet {
+  position: relative;
+  background-color: #efc4c4;
+  width: 100%;
+  height: 5652px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inherit);
+}
