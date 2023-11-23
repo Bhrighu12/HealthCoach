@@ -414,3 +414,22 @@
   color: var(--color-black);
   font-family: var(--font-inter);
 }
+
+.inputBox{
+  display: block;
+  margin: 25px;
+  padding: 5px;
+  width: 300px;
+  border: solid skyblue;
+}
+
+.appButton{
+  margin: 25px;
+  padding: 5px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
+.signup{
+  background-color:#efc4c4;
+}
