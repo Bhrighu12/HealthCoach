@@ -10,6 +10,7 @@ import Bmi from "./components/Bmi";
 import DIET from "./pages/DIET";
 import Doctor from "./components/Doctors"
 import Sign from "./components/Sign";
+import Exercises from "./pages/Exercises";
 
 function App() {
   const action = useNavigationType();
@@ -52,7 +53,7 @@ function App() {
       <Route path="/" element={<HomePage />} />
       <Route path="/bmi" element={<Bmi />} />
       <Route path="/diets" element={<DIET/>} />
-      <Route path="/exercises" element={<h1>Exercise</h1>} />
+      <Route path="/exercises" element={<Exercises/>} />
       <Route path="/doctor" element={<Doctor />} />
       <Route path="/signup" element={<Sign/>} />
     </Routes>

@@ -1,0 +1,160 @@
+.healthCoach {
+  position: absolute;
+  top: calc(50% - 28px);
+  left: calc(50% - 677px);
+  display: inline-block;
+  width: 627px;
+  height: 105px;
+}
+.healthCoachWrapper {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 114px;
+  overflow: hidden;
+  font-size: var(--font-size-43xl);
+  font-family: var(--font-georgia);
+}
+.exercises1,
+.frame {
+  position: absolute;
+  height: 66px;
+}
+.exercises1 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 382px;
+}
+.frame {
+  top: 165px;
+  left: 43px;
+  width: 1354px;
+  overflow: hidden;
+  font-size: var(--font-size-43xl);
+  font-family: var(--font-georgia);
+}
+.beginnerBodyweightWorkout {
+  position: absolute;
+  top: 282px;
+  left: 44px;
+  font-size: var(--font-size-21xl);
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 849px;
+  height: 104px;
+}
+.bodyweightSquats1 {
+  text-decoration: underline;
+}
+.bodyweightSquats {
+  color: inherit;
+}
+.bodyweightSquats20Reps {
+  margin-bottom: 0;
+}
+.pushUps {
+  color: var(--font-inherit);
+}
+.bodyweightSquats20RepsPus {
+  margin: 0;
+  padding-left: var(--padding-28xl);
+}
+.bodyweightSquats20Container {
+  position: absolute;
+  top: 386px;
+  left: 43px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  color: var(--font-inherit);
+  display: inline-block;
+  width: 819px;
+  height: 326px;
+}
+.image13Icon {
+  position: absolute;
+  top: 712px;
+  left: calc(50% - 489px);
+  width: 979px;
+  height: 777px;
+  object-fit: cover;
+}
+.theAdvancedBodyweight {
+  font-size: var(--font-size-21xl);
+}
+.theAdvancedBodyweightWorkou {
+  margin: 0;
+}
+.theAdvancedBodyweightContainer {
+  position: absolute;
+  top: 1566px;
+  left: 43px;
+  font-family: var(--font-inherit);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1138px;
+  height: 469px;
+}
+.image14Icon,
+.image15Icon,
+.image16Icon,
+.image17Icon {
+  position: absolute;
+  top: 2110px;
+  left: 43px;
+  width: 567px;
+  height: 257px;
+  object-fit: cover;
+}
+.image15Icon,
+.image16Icon,
+.image17Icon {
+  top: 2456px;
+  height: 404px;
+}
+.image16Icon,
+.image17Icon {
+  top: 2727px;
+  left: 779px;
+  height: 324px;
+}
+.image17Icon {
+  top: 2110px;
+  left: 781px;
+  width: 565px;
+  height: 494px;
+}
+.dipsBetweenBar,
+.jumpStepUps,
+.pullUps {
+  position: absolute;
+  top: 2052px;
+  left: 92px;
+  display: inline-block;
+  width: 272px;
+  height: 46px;
+}
+.dipsBetweenBar,
+.pullUps {
+  top: 2643px;
+  left: 813px;
+  width: 403px;
+}
+.pullUps {
+  top: 2389px;
+  left: 92px;
+  width: 272px;
+}
+.exercises {
+  position: relative;
+  background-color: #efc4c4;
+  width: 100%;
+  height: 3353px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  font-family: var(--font-times-new-roman);
+}
